@@ -1,0 +1,123 @@
+/* Wirefreame css*/
+*{
+    box-sizing: border-box;
+    
+    
+}
+body{
+    font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    width: 100%;
+    font-size: 18px;
+    text-align: left;
+    margin-top: 0px;
+    line-height: 150%;
+
+}
+
+
+   
+      nav{
+      /* padding:20px;*/
+       width:660px;
+       background-color: white;
+       margin-left: 360px;
+      
+   }
+   footer{
+       background-color: #777;
+       padding:0px;
+       width:100%;
+       color:white;
+       border-top-style: double;
+       border-top-color: teal;
+       font-size: 10px;
+       float: left;
+       margin-bottom: 0px;
+       text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 46px;
+    float:right;
+    position: relative;
+    right: -31px;
+}
+li {
+    display: inline;
+}  
+a{
+    padding: 8px;
+    color: gray;
+    border-right-color: rgb(235, 229, 229);
+    border-right-style: solid;
+   
+}
+   section{
+        
+        width: 100%;
+        padding:30px;
+        background-color: white;
+        float:left;
+        background-image: url("image1.png");
+        padding-top: 0px;
+    
+        
+    }
+    article{
+        
+        color: #ebebeb;
+        background-color: white;
+        width:660px;
+        margin-left: 360px;
+    }
+     
+   .text
+   {
+         color: #777;
+         background-color: white;
+         width:100%;
+         padding:10px;
+         text-align: left;
+         padding-top:0px;
+         padding-bottom: 55px;
+        
+    }
+    h1{
+        float: left;
+        text-align: left;
+        color: white;
+        background-color: teal;
+        padding: 25px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        position: relative;
+        left: 33px;
+        margin-bottom: 0;
+       
+         
+    }
+    img{
+        float:left;
+        }
+
+    h2{
+        color: teal;
+        text-align: left;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding: 22px;
+        border-bottom-style: solid;
+        border-bottom-color:lightgray;
+        
+    }
+    .name{
+        height: 31px;
+    }
+    .submit{
+        background-color: teal;
+        block-size: 36px;
+        width:106px;
+    }
+    .email{
+        height: 31px;
+    }
